@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyi/Desktop/SearchView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9104b73c7ca7565b65923a41f9c374323a9ec68">
+        <dex dex="/Users/zhaoyi/Desktop/SearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d5193430ae389fa598fc1f16b0acef78dd3973ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyi/Downloads/SearchView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhaoyi/Downloads/SearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_46d2728e3c28253a3d9638bad9da26e593213f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyi/Desktop/SearchView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhaoyi/Desktop/SearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2e1d5efa38a4449a8dd52b1519947565529e3ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhaoyi/Downloads/SearchView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92ec3932ec0e5d0b98ae6b768f8889b62a967080">
+        <dex dex="/Users/zhaoyi/Downloads/SearchView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6d6af3e796d51cc460990c774eb143f9bd437b7/classes.dex" />
+    </item>
+
+</items>
