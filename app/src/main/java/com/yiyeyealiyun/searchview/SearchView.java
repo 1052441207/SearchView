@@ -103,6 +103,8 @@ public class SearchView extends View implements View.OnClickListener{
 
 
         initAnim();
+
+        setLayerType(LAYER_TYPE_SOFTWARE,paint);
     }
 
     private void initAnim() {
@@ -197,6 +199,7 @@ public class SearchView extends View implements View.OnClickListener{
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
+
         canvas.translate(getWidth()/2,getHeight()/2);
 
         canvas.drawPath(searchIconDestPath,paint);
